@@ -26,8 +26,6 @@ This app empowers users to **manage their tasks**, create personal **profiles**,
 
 ---
 
----
-
 ## ⚙️ Installation & Setup
 Clone the repository and install dependencies:
 
